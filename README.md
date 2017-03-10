@@ -7,5 +7,5 @@ angular.module('yourApp',[..., 'sj-time-picker'])
 ```
 
 ```html
-<input type="text" ng-model="pickupInfo.pickupTime" sj-time-picker/>
+<input type="text" ng-model="yourModel" sj-time-picker/>
 ```
